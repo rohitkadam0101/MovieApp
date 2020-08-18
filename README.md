@@ -1,4 +1,4 @@
-# MovieApp
+# MovieInfoApp
 MovieApp made with ReactJS
 
 ## Abstract of project:-
